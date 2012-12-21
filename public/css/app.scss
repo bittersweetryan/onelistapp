@@ -1,0 +1,140 @@
+$blueTile : rgba(3,166,136,1);
+$greenTile : rgba(201,217,78,1);
+$yellowTile : rgba(242,172,41,1);
+$orangeTile : rgba(242,118,46,1);
+$redTile : rgba(242,52,52,1);
+$square : 300px;
+
+body{
+	background-image: url('../assets/creampaper.png');
+}
+
+#innerContainer{
+	width : $square * 2;
+	height : $square;
+	position : absolute;
+}
+
+h1{
+	text-shadow : 1px 1px 1px white;
+}
+
+#newList{
+	margin: 0 0 0 12px;
+}
+
+.newList{
+	margin: 7px 0 7px 0;
+}
+
+.plus{
+	background-image: url('../assets/icons/plus_12x12.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.downArrow{
+	background-image: url('../assets/icons/plus_12x12.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+@mixin transition-left( $duration ){
+  -webkit-transition-property: left;
+  -webkit-transition-duration: $duration;
+  -webkit-transiton-timing-function: ease-in-out;
+
+  -moz-transition-property: left;
+  -moz-transition-duration: $duration;
+  -moz-transiton-timing-function: ease-in-out;
+
+  -ms-transition-property: left;
+  -ms-transition-duration: $duration;
+  -ms-transiton-timing-function: ease-in-out;
+
+  transition-property: left;
+  transition-duration: $duration;
+  transiton-timing-function: ease-in-out;
+}
+
+.right{
+  @include transition-left( 1s );
+  left: 0px;
+}
+
+.left{
+  @include transition-left( 1s );
+
+  left: -300px;
+}
+
+.card{
+
+	border-radius: 6px;
+	width: $square;
+	height: $square;
+	position: relative;
+	float: left;
+	margin: 12px;
+	-webkit-box-shadow:  4px 4px 10px 0px rgba(22, 22, 22, .6);
+	box-shadow:  4px 4px 10px 0px rgba(22, 22, 22, .6);
+	overflow: hidden;
+	cursor: pointer;
+
+
+	.front,.back{
+		width: $square;
+		position: relative;
+		font-size:3.5em;
+		color: rgba(0,0,0,0.6);
+   		text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+   		float: left;
+   		padding: 0px 10px 0px 10px;
+	}
+
+	.front{
+		height: 50%;
+		top: 50%;
+		text-align:center;
+		margin-top: -25px;
+	}
+
+	.back{
+		padding: 12px;
+		overflow: hidden;
+
+		ul{
+			li{
+				font-size: 2em;	
+			}
+		}
+	}
+}	
+
+.list{
+	overflow : scroll;
+}
+
+ul{
+	list-style : none;
+}
+
+.blue{
+	background-color : $blueTile;
+}
+
+.green{
+	background-color: $greenTile;
+}
+
+.yellow{
+	background-color: $yellowTile;
+}
+
+.orange{
+	background-color: $orangeTile;
+}
+
+.red{
+	background-color: $redTile;
+}

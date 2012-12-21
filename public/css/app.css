@@ -1,0 +1,128 @@
+body {
+  background-image: url("../assets/creampaper.png");
+}
+
+#innerContainer {
+  width: 600px;
+  height: 300px;
+  position: absolute;
+}
+
+h1 {
+  text-shadow: 1px 1px 1px white;
+}
+
+#newList {
+  margin: 0 0 0 12px;
+}
+
+.newList {
+  margin: 7px 0 7px 0;
+}
+
+.plus {
+  background-image: url("../assets/icons/plus_12x12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.downArrow {
+  background-image: url("../assets/icons/plus_12x12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.right {
+  -webkit-transition-property: left;
+  -webkit-transition-duration: 1s;
+  -webkit-transiton-timing-function: ease-in-out;
+  -moz-transition-property: left;
+  -moz-transition-duration: 1s;
+  -moz-transiton-timing-function: ease-in-out;
+  -ms-transition-property: left;
+  -ms-transition-duration: 1s;
+  -ms-transiton-timing-function: ease-in-out;
+  transition-property: left;
+  transition-duration: 1s;
+  transiton-timing-function: ease-in-out;
+  left: 0px;
+}
+
+.left {
+  -webkit-transition-property: left;
+  -webkit-transition-duration: 1s;
+  -webkit-transiton-timing-function: ease-in-out;
+  -moz-transition-property: left;
+  -moz-transition-duration: 1s;
+  -moz-transiton-timing-function: ease-in-out;
+  -ms-transition-property: left;
+  -ms-transition-duration: 1s;
+  -ms-transiton-timing-function: ease-in-out;
+  transition-property: left;
+  transition-duration: 1s;
+  transiton-timing-function: ease-in-out;
+  left: -300px;
+}
+
+.card {
+  border-radius: 6px;
+  width: 300px;
+  height: 300px;
+  position: relative;
+  float: left;
+  margin: 12px;
+  -webkit-box-shadow: 4px 4px 10px 0px rgba(22, 22, 22, 0.6);
+  box-shadow: 4px 4px 10px 0px rgba(22, 22, 22, 0.6);
+  overflow: hidden;
+  cursor: pointer;
+}
+.card .front, .card .back {
+  width: 300px;
+  position: relative;
+  font-size: 3.5em;
+  color: rgba(0, 0, 0, 0.6);
+  text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+  float: left;
+  padding: 0px 10px 0px 10px;
+}
+.card .front {
+  height: 50%;
+  top: 50%;
+  text-align: center;
+  margin-top: -25px;
+}
+.card .back {
+  padding: 12px;
+  overflow: hidden;
+}
+.card .back ul li {
+  font-size: 2em;
+}
+
+.list {
+  overflow: scroll;
+}
+
+ul {
+  list-style: none;
+}
+
+.blue {
+  background-color: #03a688;
+}
+
+.green {
+  background-color: #c9d94e;
+}
+
+.yellow {
+  background-color: #f2ac29;
+}
+
+.orange {
+  background-color: #f2762e;
+}
+
+.red {
+  background-color: #f23434;
+}
