@@ -1,9 +1,5 @@
 require 'sinatra'
 
 get '/' do
-	'hello world!'
-end
-
-get '/hello/:name' do |nm|
-	"Hello #{nm}!"
+	File.read(File.join('public', 'index.html'))
 end
