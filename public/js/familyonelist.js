@@ -76,9 +76,6 @@ function( $, _, Backbone, MainView, Modernizr ) {
       $('input, #newItem').on('click',function(e){
         e.stopImmediatePropagation();
       });
-
-        //create the main app view
-        this.mainView = new MainView();
     }
   };
 

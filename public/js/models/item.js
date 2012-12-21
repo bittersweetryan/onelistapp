@@ -7,8 +7,13 @@ define(
 		var Item = Backbone.Model.extend({
 
 			defaults: {
-				itemName : '',
+				name : '',
 				purchased : false
+			},
+
+			toggle : function(){
+
+				this.set( 'purchased', !this.get( 'purchased' ) );
 			}
 		});
 

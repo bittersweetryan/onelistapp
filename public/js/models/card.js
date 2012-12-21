@@ -9,6 +9,10 @@ define(
 			defaults : {
 				name : '',
 				list : []
+			},
+
+			addItem : function( item ){
+				this.get( 'list' ).push( item );
 			}
 
 		});

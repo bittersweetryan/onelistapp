@@ -9,6 +9,11 @@ define(
 
 			el : '#cards',
 
+			initialize : function( ){
+
+			},
+
+			//colors keeps track of the colors that have been added
 			colors : [
 				'blue',
 				'green',

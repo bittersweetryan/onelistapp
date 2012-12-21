@@ -1,35 +1,9 @@
 define(
 	[
-		'jquery',
-		'underscore',
-		'backbone',
-		'views/cards'
+		'familyonelist'
 	],
-	function( $, _, Backbone, Cards ){
+	function( familyonelist ){
 		'use strict';
 
-		var MainView = Backbone.View.extend({
-
-			el : '#appView',
-
-			events : {
-				'click #newList' : 'addNew',
-				'click #myBtn' : 'addNew'
-			},
-
-			initialize : function(){
-				
-			},
-
-			cards : [
-
-			],
-
-			addNew : function(){
-				Cards.create();
-			}
-		});
-
-		return MainView;
 	}
 );

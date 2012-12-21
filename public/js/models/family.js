@@ -1,16 +1,21 @@
 define(
 	[
 		'familyonelist'
-	], 
+	],
 	function( familyonelist ){
 		
 		var Family = Backbone.Model.extend({
 
 			defaults : {
-				id : '',
+				id : 0,
 				name : '',
-				members : []
+				cards : []
+			},
+
+			addCard : function( card ){
+				this.get( 'cards' ).push( card );
 			}
+
 		});
 
 		return Family;

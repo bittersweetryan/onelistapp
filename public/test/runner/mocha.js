@@ -10,6 +10,10 @@ require({
 
 // Load specs
 'spec/familyonelistSpec',
+'spec/models/cardSpec',
+'spec/models/itemSpec',
+'spec/models/familySpec',
+'spec/views/cardsViewSpec'
 
 ], function() {
   'use strict';
