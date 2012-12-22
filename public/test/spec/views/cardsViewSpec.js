@@ -16,9 +16,6 @@ define(
 				expect( cardsView.colors ).to.not.be.undefined;
 			} );
 
-			it( 'should respond to addCard', function( ){
-				expect( cardsView ).to.respondTo( 'addCard' );
-			} );
 		} );
 
 		return ;

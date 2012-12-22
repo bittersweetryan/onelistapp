@@ -1,8 +1,9 @@
 define(
 	[
-		'models/family'
+		'models/family',
+		'collections/cards'
 	], 
-	function( Family ){
+	function( Family, Cards ){
 		
 		var family;
 
@@ -14,27 +15,23 @@ define(
 
 			it( 'Should have a name property', function(){
 
-				expect( family.get( 'name' )).to.not.be.undefined;
+				expect( family.get( 'name' ) ).to.not.be.undefined;
 			} );
 
 			it( 'Should have a id property', function(){
 
-				expect( family.get( 'id' )).to.not.be.undefined;
+				expect( family.get( 'id' ) ).to.not.be.undefined;
 
-				expect( family.get( 'id' )).to.be.a( 'Number' );
+				expect( family.get( 'id' ) ).to.be.a( 'Number' );
 			} );
 
 			it( 'Should have a cards property', function(){
 
-				expect( family.get( 'cards' )).to.not.be.undefined;
+				expect( family.get( 'cards' ) ).to.not.be.undefined;
 
-				expect( family.get( 'cards' )).to.be.a( 'Array' );
+				expect( family.get( 'cards' ) ).to.be.an.instanceOf( Cards );
 			} );
-
-			it( 'Should respond to addCard', function(){
-
-				expect( family ).to.respondTo( 'addCard' );
-			} );
+			
 		} );
 
 	}

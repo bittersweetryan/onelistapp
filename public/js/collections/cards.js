@@ -1,8 +1,9 @@
 define(
 	[
+		'models/card',
 		'familyonelist'
-	], 
-	function( familyonelist ){
+	],
+	function( familyonelist, Card ){
 		
 		var Cards = Backbone.Collection.extend({
 
