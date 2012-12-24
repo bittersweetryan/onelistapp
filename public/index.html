@@ -44,6 +44,7 @@
         </div>
 
         <div id="cards" class="row">
+            <!--
             <div class="card blue">
                 <div id="innerContainer">
                     <div class="front">
@@ -82,80 +83,23 @@
                     </div>
                 </div>
             </div>
-
-             <div class="card green">
-                <div id="innerContainer">
-                    <div class="front">
-                        Sheri
-                    </div>
-                    <div class="back list">
-                        <div class="newList">
-                            <a class="radius button plus" href="#" id="newItem"></a>
-                        </div>
-                        <ul>
-                            <li>
-                                <input type="text" name="listitem" >
-                            </li>
-                            <li>
-                                Apple Stuff
-                            </li>
-                            <li>
-                                iTunes Gift Cards
-                            </li>
-                            <li>
-                                Thunderbolt Monitor
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-             <div class="card yellow">
-                <div id="innerContainer">
-                    <div class="front">
-                        Brenden
-                    </div>
-                     <div class="back list">
-                        My List
-                    </div>
-                </div>
-            </div>
-
-             <div class="card orange">
-                <div id="innerContainer">
-                    <div class="front">
-                        Addison
-                    </div>
-                    <div class="back list">
-                            My List
-                        </div>
-                </div>
-            </div>
-
-            <div class="card red">
-                <div id="innerContainer">
-                    <div class="front">
-                        Ayden
-                    </div>
-                    <div class="back list">
-                        My List
-                    </div>
-                </div>
-            </div>
         </div>
+        -->
     </div>
 
     <!-- Included JS Files (Compressed) -->
-    <script data-main="js/config" src="js/vendor/require.js">
+    <script data-main="js/config" src="js/vendor/require.js"></script>
 
     <script type="text/template" id="cardViewTemplate">
         <div class="card">
             <div id="innerContainer">
                 <div class="front" id="name">
-    
+                    <input type="text" name="name" placeholder="Who's list?">
                 </div>
                 <div class="back list">
-                    <span data-id="name"></span>
+                   <div class="newList">
+                       <a class="radius button plus" href="#" id="newItem"></a>
+                   </div>
                     <ul id="listItems">
                     </ul>
                 </div>

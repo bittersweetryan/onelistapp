@@ -8,14 +8,18 @@ require({
 
 }, [
 
-// Load specs
-'spec/familyonelistSpec',
-'spec/models/cardSpec',
-'spec/models/itemSpec',
-'spec/models/familySpec',
-'spec/views/cardsViewSpec'
+  // Load specs
+  'spec/familyonelistSpec',
+  'spec/models/cardSpec',
+  'spec/models/itemSpec',
+  'spec/models/familySpec',
+  'spec/views/appViewSpec',
+  'spec/views/cardViewSpec',
+  'spec/views/cardsViewSpec'
 
-], function() {
+],
+
+function() {
   'use strict';
 
   var runner = mocha.run();

@@ -2,13 +2,16 @@ define(
 	[
 		'jquery',
 		'familyonelist',
-		'views/mainView',
-		'views/cardView'
+		'views/appView',
+		'views/cardsView'
 	],
 
-	function( $, familyonelist, MainView, CardView ) {
+	function( $, f1l ) {
 		'use strict';
 		
-		familyonelist.init();
+		f1l.init();
+
+		var appView = new f1l.views.AppView();
+		var cardsView = new f1l.views.CardsView();
 	}
 );

@@ -2,7 +2,7 @@ define(
 	[
 		'models/family',
 		'collections/cards'
-	], 
+	],
 	function( Family, Cards ){
 		
 		var family;
@@ -31,7 +31,7 @@ define(
 
 				expect( family.get( 'cards' ) ).to.be.an.instanceOf( Cards );
 			} );
-			
+
 		} );
 
 	}
