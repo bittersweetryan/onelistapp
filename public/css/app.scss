@@ -1,8 +1,18 @@
-$blueTile : rgba(3,166,136,1);
-$greenTile : rgba(201,217,78,1);
-$yellowTile : rgba(242,172,41,1);
-$orangeTile : rgba(242,118,46,1);
-$redTile : rgba(242,52,52,1);
+$blue: rgba(3,166,136,1);
+$blueLight: lighten($blue, 40%);
+$blueDark: darken($blue, 20%);
+$green: rgba(201,217,78,1);
+$greenLight: lighten($green, 20%);
+$greenDark: darken($green, 20%);
+$yellow: rgba(242,172,41,1);
+$yellowLight: lighten($yellow, 20%);
+$yellowDark: darken($yellow, 20%);
+$orange: rgba(242,118,46,1);
+$orangeLight: lighten($orange, 20%);
+$orangeDark: darken($orange, 20%);
+$red: rgba(242,52,52,1);
+$redLight: lighten($red, 20%);
+$redDark: darken($red, 20%);
 $square : 300px;
 
 body{
@@ -76,8 +86,8 @@ h1{
 	position: relative;
 	float: left;
 	margin: 12px;
-	-webkit-box-shadow:  4px 4px 10px 0px rgba(22, 22, 22, .6);
-	box-shadow:  4px 4px 10px 0px rgba(22, 22, 22, .6);
+	-webkit-box-shadow:  4px 4px 10px 0px rgba(22, 22, 22, .4);
+	box-shadow:  4px 4px 10px 0px rgba(22, 22, 22, .4);
 	overflow: hidden;
 	cursor: pointer;
 
@@ -113,7 +123,10 @@ h1{
 
 input[type=text]{
 	font-size: 32px;
-	height: 44px;
+	height: 50px;
+    border-radius: 6px;
+    border: none;
+    padding: 12px;
 }
 
 .list{
@@ -124,22 +137,45 @@ ul{
 	list-style : none;
 }
 
+input, input:focus{
+  &.blue{
+    color: $blueDark;
+    background-color: $blueLight;
+  }
+  &.green{
+    color: $greenDark;
+    background-color: $greenLight;
+  }
+  &.yellow{
+    color: $yellowDark;
+    background-color: $yellowLight;
+  }
+  &.orange{
+    color: $orangeDark;
+    background-color: $orangeLight;
+  }
+  &.red{
+    color: $redDark;
+    background-color: $redLight;
+  }
+}
+
 .blue{
-	background-color : $blueTile;
+	background-color : $blue;
 }
 
 .green{
-	background-color: $greenTile;
+	background-color: $green;
 }
 
 .yellow{
-	background-color: $yellowTile;
+	background-color: $yellow;
 }
 
 .orange{
-	background-color: $orangeTile;
+	background-color: $orange;
 }
 
 .red{
-	background-color: $redTile;
+	background-color: $red;
 }

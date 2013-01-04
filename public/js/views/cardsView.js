@@ -32,9 +32,20 @@ define(
 			addCard : function(  ){
 				var cardView = new f1l.views.CardView(  );
 
-				cardView.render( f1l.collections.cards.pop(), this.colors[ this.colorIndex++ ] );
+				cardView.render( f1l.collections.cards.pop(), this.getColor() );
 
 				this.$el.append( cardView.$el );
+
+				cardView.$el.find( '[name="name"]' ).focus();
+			},
+
+			getColor : function(){
+
+				if( this.colorIndex >= this.colors.length ){
+					this.colorIndex = 0;
+				}
+
+				return this.colors[ this.colorIndex++ ];
 			}
 		});
 

@@ -2,10 +2,9 @@ define(
 	[
 		'jquery',
 		'backbone',
-		'familyonelist',
-		'views/cardView'
+		'familyonelist'
 	],
-	function( $, Backbone, f1l, CardView ){
+	function( $, Backbone, f1l ){
 		
 		var AppView = Backbone.View.extend( {
 
@@ -20,7 +19,6 @@ define(
 			},
 
 			addList : function(){
-				
 				f1l.collections.cards.add( {
 					name : 'Ayden'
 				} );

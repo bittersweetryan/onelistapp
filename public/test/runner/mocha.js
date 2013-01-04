@@ -15,8 +15,9 @@ require({
   'spec/models/familySpec',
   'spec/views/appViewSpec',
   'spec/views/cardViewSpec',
-  'spec/views/cardsViewSpec'
-
+  'spec/views/cardsViewSpec',
+  'spec/views/listItemViewSpec',
+  'spec/views/listViewSpec'
 ],
 
 function() {

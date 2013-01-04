@@ -3,10 +3,11 @@ define(
         'jquery',
         'modernizr',
         'models/card',
+        'views/listView',
         'familyonelist'
     ],
-    function( $, Modernizr, Card, f1l ){
-        
+    function( $, Modernizr, Card, ListView, f1l ){
+
         var CardView = Backbone.View.extend({
 
             template : '#cardViewTemplate',
@@ -15,15 +16,19 @@ define(
 
             color : null,
 
+            listView : new ListView(),
+
             events : {
                 'click input[name="name"]' : 'stopScroll',
                 'keypress input[name="name"]' : 'setName',
-                'click' : 'showList'
+                'click' : 'showList',
+                'click [data-id="name"]>span' : 'stopScroll',
+                'click [data-id="newItem"]' : 'addItem'
             },
 
             initialize : function(){
                 var $template = $(this.template),
-                    that = this;
+                    self = this;
 
                 if( $template.length ){ //needed for testing without a fixture
                     this.template = _.template( $template.html() );
@@ -37,11 +42,12 @@ define(
                 }
 
                 if( typeof this.template === 'function' ){
-                    this.$el = $( this.template( this.model.toJSON( ) ) );
+                    this.$el.html( this.template( this.model.toJSON( ) ) );
                 }
 
                 if( color ){
-                    this.$el.addClass( color );
+                    this.$el.find('.card').addClass( color );
+                    this.$el.find( '[name =  "name"]' ).addClass( color );
                 }
                 
 
@@ -94,6 +100,12 @@ define(
                 this.$el.find('input, #newItem').on('click',function(e){
                   e.stopImmediatePropagation();
                 });
+            },
+
+            addItem : function( e ){
+                this.stopScroll( e );
+
+                this.card.get('items').add( );
             }
         });
 

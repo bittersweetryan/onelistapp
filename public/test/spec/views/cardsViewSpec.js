@@ -27,6 +27,17 @@ define(
 				expect( currentColor ).to.not.equal( cardsView.colorIndex );
 			} );
 
+			it( 'should respond to getColor and return to first color when all colors are picked', function(){
+				var firstColor = cardsView.colors[ 0 ];
+
+				expect( cardsView ).to.respondTo( 'getColor' );
+
+				cardsView.colorIndex = cardsView.colors.length;
+
+				expect( cardsView.getColor() ).to.equal( firstColor );
+
+			} );
+
 		} );
 
 		return ;

@@ -71,8 +71,8 @@ h1 {
   position: relative;
   float: left;
   margin: 12px;
-  -webkit-box-shadow: 4px 4px 10px 0px rgba(22, 22, 22, 0.6);
-  box-shadow: 4px 4px 10px 0px rgba(22, 22, 22, 0.6);
+  -webkit-box-shadow: 4px 4px 10px 0px rgba(22, 22, 22, 0.4);
+  box-shadow: 4px 4px 10px 0px rgba(22, 22, 22, 0.4);
   overflow: hidden;
   cursor: pointer;
 }
@@ -101,7 +101,10 @@ h1 {
 
 input[type=text] {
   font-size: 32px;
-  height: 44px;
+  height: 50px;
+  border-radius: 6px;
+  border: none;
+  padding: 12px;
 }
 
 .list {
@@ -110,6 +113,27 @@ input[type=text] {
 
 ul {
   list-style: none;
+}
+
+input.blue, input:focus.blue {
+  color: #014236;
+  background-color: #78fde4;
+}
+input.green, input:focus.green {
+  color: #919f22;
+  background-color: #e3eba2;
+}
+input.yellow, input:focus.yellow {
+  color: #ab730a;
+  background-color: #f8d189;
+}
+input.orange, input:focus.orange {
+  color: #af470b;
+  background-color: #f8b58e;
+}
+input.red, input:focus.red {
+  color: #b40c0c;
+  background-color: #f89494;
 }
 
 .blue {

@@ -1,7 +1,7 @@
 define(
 	[
 		'views/cardView'
-	], 
+	],
 	function( CardView ){
 
 		var cardView;
@@ -14,8 +14,8 @@ define(
 
 			it( 'should have a color property', function( ){
 				expect( cardView.color ).to.not.be.undefined;
-			} );                    
-
+			} );
+			
 			it( 'should have a template property', function( ){
 				expect( cardView.template ).to.not.be.undefined;
 			} );
@@ -30,6 +30,10 @@ define(
 
 			it( 'should respond to showList', function(){
 				expect( cardView ).to.respondTo( 'showList' );
+			} );
+
+			it( 'should respond to add item', function(){
+				expect( cardView ).to.respondTo( 'addItem' );
 			} );
 
 		} );

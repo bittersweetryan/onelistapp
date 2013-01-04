@@ -2,15 +2,13 @@ define([
   'jquery',
   'underscore',
   'backbone',
-  'modernizr',
-  'models/card',
-  'collections/cards'
+  'modernizr'
 ],
 
-function( $, _, Modernizr, Backbone, Card, Cards ) {
+function( $, _, Backbone, Modernizr ) {
   'use strict';
 
-  var app = {
+  var familyonelist = {
     root: '/',
 
     models : {},
@@ -22,8 +20,6 @@ function( $, _, Modernizr, Backbone, Card, Cards ) {
     init : function( ){
       
       this.setupFoundation();
-
-      this.collections.cards = new Cards( [ new Card( { name : 'Ryan' } ) ] );
 
     },
 
@@ -59,6 +55,6 @@ function( $, _, Modernizr, Backbone, Card, Cards ) {
     }
   };
 
-  return app;
+  return familyonelist;
 
 });
