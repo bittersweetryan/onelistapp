@@ -122,6 +122,8 @@ define(
 
             closeCard: function( e ){
                 this.stopScroll( e );
+
+                this.$el.fadeOut( );
             }
         });
 
