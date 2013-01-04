@@ -16,23 +16,24 @@ define(
 
             color : null,
 
-            listView : new ListView(),
+            listView : null,
 
             events : {
                 'click input[name="name"]' : 'stopScroll',
                 'keypress input[name="name"]' : 'setName',
                 'click' : 'showList',
-                'click [data-id="name"]>span' : 'stopScroll',
-                'click [data-id="newItem"]' : 'addItem'
+                'click [data-id="name"]>span' : 'stopScroll'
             },
 
             initialize : function(){
-                var $template = $(this.template),
+                var $tpl = $(this.template),
                     self = this;
 
-                if( $template.length ){ //needed for testing without a fixture
-                    this.template = _.template( $template.html() );
+                if( $tpl.length ){ //needed for testing without a fixture
+                    this.template = _.template( $tpl.html() );
                 }
+
+                this.listView = new ListView( this.model.get( 'items' ) );
             },
 
             render : function( card, color ){
@@ -50,13 +51,11 @@ define(
                     this.$el.find( '[name =  "name"]' ).addClass( color );
                 }
                 
+                this.$el.find(".list").append(
+                    this.listView.render()
+                );
 
                 this.delegateEvents( );
-            },
-
-            stopScroll : function( e ){
-                e.stopImmediatePropagation();
-                e.preventDefault();
             },
 
             setName : function( e ){

@@ -45,6 +45,7 @@ h1 {
   transition-property: left;
   transition-duration: 1s;
   transiton-timing-function: ease-in-out;
+  transform: translate3d(0, 0, 0);
   left: 0px;
 }
 
@@ -61,6 +62,7 @@ h1 {
   transition-property: left;
   transition-duration: 1s;
   transiton-timing-function: ease-in-out;
+  transform: translate3d(0, 0, 0);
   left: -300px;
 }
 
@@ -91,20 +93,25 @@ h1 {
   text-align: center;
   margin-top: -25px;
 }
-.card .back {
-  padding: 12px;
-  overflow: hidden;
-}
-.card .back ul li {
-  font-size: 2em;
-}
-
-input[type=text] {
+.card .front input[type=text] {
   font-size: 32px;
   height: 50px;
   border-radius: 6px;
   border: none;
   padding: 12px;
+}
+.card .back {
+  padding: 12px;
+  overflow: hidden;
+}
+.card .back ul li {
+  font-size: 1.5em;
+}
+.card .back input[type=text] {
+  font-size: 1.2em;
+  height: 1.5em;
+  border-radius: 6px;
+  border: none;
 }
 
 .list {

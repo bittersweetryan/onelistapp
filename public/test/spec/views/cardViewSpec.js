@@ -31,11 +31,7 @@ define(
 			it( 'should respond to showList', function(){
 				expect( cardView ).to.respondTo( 'showList' );
 			} );
-
-			it( 'should respond to add item', function(){
-				expect( cardView ).to.respondTo( 'addItem' );
-			} );
-
+			
 		} );
 
 		return ;

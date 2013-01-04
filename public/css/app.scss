@@ -65,6 +65,8 @@ h1{
   transition-property: left;
   transition-duration: $duration;
   transiton-timing-function: ease-in-out;
+
+  transform: translate3d(0,0,0);
 }
 
 .right{
@@ -97,9 +99,9 @@ h1{
 		position: relative;
 		font-size:3.5em;
 		color: rgba(0,0,0,0.6);
-   		text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
-   		float: left;
-   		padding: 0px 10px 0px 10px;
+		text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+		float: left;
+		padding: 0px 10px 0px 10px;
 	}
 
 	.front{
@@ -107,6 +109,15 @@ h1{
 		top: 50%;
 		text-align:center;
 		margin-top: -25px;
+
+		input[type=text]{
+			font-size: 32px;
+			height: 50px;
+			border-radius: 6px;
+			border: none;
+			padding: 12px;
+		}
+
 	}
 
 	.back{
@@ -115,19 +126,18 @@ h1{
 
 		ul{
 			li{
-				font-size: 2em;	
+				font-size: 1.5em;	
 			}
+		}
+
+		input[type=text]{
+			font-size: 1.2em;
+			height: 1.5em;
+			border-radius: 6px;
+			border: none;
 		}
 	}
 }	
-
-input[type=text]{
-	font-size: 32px;
-	height: 50px;
-    border-radius: 6px;
-    border: none;
-    padding: 12px;
-}
 
 .list{
 	overflow : scroll;
@@ -139,24 +149,24 @@ ul{
 
 input, input:focus{
   &.blue{
-    color: $blueDark;
-    background-color: $blueLight;
+	color: $blueDark;
+	background-color: $blueLight;
   }
   &.green{
-    color: $greenDark;
-    background-color: $greenLight;
+	color: $greenDark;
+	background-color: $greenLight;
   }
   &.yellow{
-    color: $yellowDark;
-    background-color: $yellowLight;
+	color: $yellowDark;
+	background-color: $yellowLight;
   }
   &.orange{
-    color: $orangeDark;
-    background-color: $orangeLight;
+	color: $orangeDark;
+	background-color: $orangeLight;
   }
   &.red{
-    color: $redDark;
-    background-color: $redLight;
+	color: $redDark;
+	background-color: $redLight;
   }
 }
 

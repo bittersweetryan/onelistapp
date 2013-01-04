@@ -67,8 +67,8 @@
       "fileType" : 8192
     },
     "\/public\/test\/spec\/views\/listViewSpec.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/spec\/views\/listViewSpec.js",
@@ -76,17 +76,6 @@
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/spec\/views\/listViewSpec.min.js",
       "fileType" : 64
-    },
-    "\/public\/assets\/icons\/read_more_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_32x32.png",
-      "initialSize" : 200,
-      "fileType" : 8192
     },
     "\/public\/assets\/icons\/document_fill_8x8.png" : {
       "ignoreWasSetByUser" : 0,
@@ -97,6 +86,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/document_fill_8x8.png",
       "initialSize" : 166,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/read_more_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_32x32.png",
+      "initialSize" : 200,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/x_alt_8x8.png" : {
@@ -176,6 +176,17 @@
       "initialSize" : 114,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/move_alt1_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt1_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt1_32x32.png",
+      "initialSize" : 266,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/fullscreen_alt_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -196,17 +207,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_horizontal_16x6.png",
       "initialSize" : 145,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/move_alt1_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt1_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt1_32x32.png",
-      "initialSize" : 266,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/move_vertical_12x32.png" : {
@@ -248,21 +248,10 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/models\/item.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/models\/item.min.js",
       "fileType" : 64
-    },
-    "\/public\/assets\/icons\/battery_half_8x4.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/battery_half_8x4.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/battery_half_8x4.png",
-      "initialSize" : 129,
-      "fileType" : 8192
     },
     "\/public\/assets\/icons\/loop_alt3_8x6.png" : {
       "ignoreWasSetByUser" : 0,
@@ -273,6 +262,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt3_8x6.png",
       "initialSize" : 150,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/battery_half_8x4.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/battery_half_8x4.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/battery_half_8x4.png",
+      "initialSize" : 129,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/pen_16x16.png" : {
@@ -297,17 +297,6 @@
       "initialSize" : 325,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/magnifying_glass_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/magnifying_glass_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/magnifying_glass_32x32.png",
-      "initialSize" : 426,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/comment_fill_8x7.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -317,6 +306,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_fill_8x7.png",
       "initialSize" : 153,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/magnifying_glass_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/magnifying_glass_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/magnifying_glass_32x32.png",
+      "initialSize" : 426,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/volume_mute_24x18.png" : {
@@ -336,7 +336,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/config.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/config.min.js",
       "fileType" : 64
@@ -385,17 +385,6 @@
       "initialSize" : 146,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/chat_12x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/chat_12x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/chat_12x12.png",
-      "initialSize" : 280,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/tag_stroke_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -405,6 +394,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/tag_stroke_12x12.png",
       "initialSize" : 227,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/chat_12x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/chat_12x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/chat_12x12.png",
+      "initialSize" : 280,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/document_stroke_32x32.png" : {
@@ -517,15 +517,15 @@
       "initialSize" : 261,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/plus_16x16.png" : {
+    "\/public\/assets\/icons\/loop_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/plus_16x16.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_32x32.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/plus_16x16.png",
-      "initialSize" : 137,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_32x32.png",
+      "initialSize" : 428,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/trash_stroke_12x12.png" : {
@@ -539,17 +539,6 @@
       "initialSize" : 220,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/loop_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_32x32.png",
-      "initialSize" : 428,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/cursor_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -559,6 +548,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/cursor_12x12.png",
       "initialSize" : 182,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/plus_16x16.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/plus_16x16.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/plus_16x16.png",
+      "initialSize" : 137,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/pilcrow_18x24.png" : {
@@ -627,15 +627,15 @@
       "initialSize" : 292,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/play_12x16.png" : {
+    "\/public\/assets\/icons\/brush_alt_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/play_12x16.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/brush_alt_16x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/play_12x16.png",
-      "initialSize" : 185,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/brush_alt_16x16.png",
+      "initialSize" : 201,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/trash_stroke_32x32.png" : {
@@ -649,15 +649,15 @@
       "initialSize" : 291,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/brush_alt_16x16.png" : {
+    "\/public\/assets\/icons\/play_12x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/brush_alt_16x16.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/play_12x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/brush_alt_16x16.png",
-      "initialSize" : 201,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/play_12x16.png",
+      "initialSize" : 185,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/move_horizontal_alt1_12x5.png" : {
@@ -781,17 +781,6 @@
       "initialSize" : 215,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/compass_24x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/compass_24x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/compass_24x24.png",
-      "initialSize" : 383,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/sun_stroke_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -801,6 +790,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/sun_stroke_32x32.png",
       "initialSize" : 335,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/compass_24x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/compass_24x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/compass_24x24.png",
+      "initialSize" : 383,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/chat_24x24.png" : {
@@ -853,7 +853,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/lib\/fixtures.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/lib\/fixtures.min.js",
       "fileType" : 64
@@ -875,7 +875,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/spec\/familyonelistSpec.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/spec\/familyonelistSpec.min.js",
       "fileType" : 64
@@ -1166,17 +1166,6 @@
       "initialSize" : 212,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/map_pin_alt_16x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/map_pin_alt_16x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/map_pin_alt_16x32.png",
-      "initialSize" : 369,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/list_32x28.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1186,6 +1175,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/list_32x28.png",
       "initialSize" : 164,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/map_pin_alt_16x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/map_pin_alt_16x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/map_pin_alt_16x32.png",
+      "initialSize" : 369,
       "fileType" : 8192
     },
     "\/public\/test.html" : {
@@ -1264,8 +1264,8 @@
       "fileType" : 8192
     },
     "\/public\/js\/views\/listItemView.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/views\/listItemView.js",
@@ -1461,15 +1461,15 @@
       "initialSize" : 289,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/left_quote_alt_8x6.png" : {
+    "\/public\/assets\/icons\/calendar_alt_stroke_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_alt_8x6.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/calendar_alt_stroke_24x24.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_alt_8x6.png",
-      "initialSize" : 146,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/calendar_alt_stroke_24x24.png",
+      "initialSize" : 226,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/lightbulb_8x12.png" : {
@@ -1483,15 +1483,15 @@
       "initialSize" : 221,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/calendar_alt_stroke_24x24.png" : {
+    "\/public\/assets\/icons\/left_quote_alt_8x6.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/calendar_alt_stroke_24x24.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_alt_8x6.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/calendar_alt_stroke_24x24.png",
-      "initialSize" : 226,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_alt_8x6.png",
+      "initialSize" : 146,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/pilcrow_24x32.png" : {
@@ -1599,7 +1599,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/lib\/expect.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/lib\/expect.min.js",
       "fileType" : 64
@@ -1637,15 +1637,15 @@
       "initialSize" : 236,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/play_alt_24x24.png" : {
+    "\/public\/assets\/icons\/transfer_32x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/play_alt_24x24.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/transfer_32x24.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/play_alt_24x24.png",
-      "initialSize" : 309,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/transfer_32x24.png",
+      "initialSize" : 262,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/arrow_right_alt2_8x8.png" : {
@@ -1659,17 +1659,6 @@
       "initialSize" : 160,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/transfer_32x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/transfer_32x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/transfer_32x24.png",
-      "initialSize" : 262,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/document_fill_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1679,6 +1668,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/document_fill_32x32.png",
       "initialSize" : 293,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/play_alt_24x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/play_alt_24x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/play_alt_24x24.png",
+      "initialSize" : 309,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/pen_alt2_32x32.png" : {
@@ -2028,7 +2028,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/collections\/cards.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/collections\/cards.min.js",
       "fileType" : 64
@@ -2154,15 +2154,15 @@
       "initialSize" : 397,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/calendar_alt_fill_24x24.png" : {
+    "\/public\/assets\/icons\/battery_empty_12x6.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/calendar_alt_fill_24x24.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/battery_empty_12x6.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/calendar_alt_fill_24x24.png",
-      "initialSize" : 273,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/battery_empty_12x6.png",
+      "initialSize" : 147,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/arrow_down_alt2_8x8.png" : {
@@ -2176,26 +2176,15 @@
       "initialSize" : 169,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/link_32x32.png" : {
+    "\/public\/assets\/icons\/calendar_alt_fill_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/link_32x32.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/calendar_alt_fill_24x24.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/link_32x32.png",
-      "initialSize" : 381,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/minus_alt_16x16.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/minus_alt_16x16.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/minus_alt_16x16.png",
-      "initialSize" : 212,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/calendar_alt_fill_24x24.png",
+      "initialSize" : 273,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/key_stroke_8x8.png" : {
@@ -2209,6 +2198,17 @@
       "initialSize" : 180,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/minus_alt_16x16.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/minus_alt_16x16.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/minus_alt_16x16.png",
+      "initialSize" : 212,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/fork_21x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2220,6 +2220,17 @@
       "initialSize" : 302,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/link_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/link_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/link_32x32.png",
+      "initialSize" : 381,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/bars_alt_21x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2229,17 +2240,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/bars_alt_21x24.png",
       "initialSize" : 149,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/battery_empty_12x6.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/battery_empty_12x6.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/battery_empty_12x6.png",
-      "initialSize" : 147,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/movie_16x16.png" : {
@@ -2297,15 +2297,15 @@
       "initialSize" : 147,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/list_12x11.png" : {
+    "\/public\/assets\/icons\/read_more_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/list_12x11.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_24x24.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/list_12x11.png",
-      "initialSize" : 133,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_24x24.png",
+      "initialSize" : 186,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/camera_8x8.png" : {
@@ -2352,15 +2352,15 @@
       "initialSize" : 242,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/read_more_24x24.png" : {
+    "\/public\/assets\/icons\/list_12x11.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_24x24.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/list_12x11.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_24x24.png",
-      "initialSize" : 186,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/list_12x11.png",
+      "initialSize" : 133,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/move_horizontal_alt1_8x3.png" : {
@@ -2429,17 +2429,6 @@
       "initialSize" : 245,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/key_fill_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/key_fill_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/key_fill_32x32.png",
-      "initialSize" : 307,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/loop_alt1_12x9.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2462,17 +2451,6 @@
       "initialSize" : 310,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/battery_empty_16x8.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/battery_empty_16x8.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/battery_empty_16x8.png",
-      "initialSize" : 159,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/map_pin_alt_4x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2482,6 +2460,28 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/map_pin_alt_4x8.png",
       "initialSize" : 157,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/key_fill_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/key_fill_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/key_fill_32x32.png",
+      "initialSize" : 307,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/battery_empty_16x8.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/battery_empty_16x8.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/battery_empty_16x8.png",
+      "initialSize" : 159,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/move_alt1_24x24.png" : {
@@ -2528,17 +2528,6 @@
       "initialSize" : 119,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_left_alt1_12x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt1_12x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt1_12x12.png",
-      "initialSize" : 203,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/pen_alt_fill_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2548,6 +2537,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt_fill_24x24.png",
       "initialSize" : 276,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/arrow_left_alt1_12x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt1_12x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt1_12x12.png",
+      "initialSize" : 203,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/undo_12x12.png" : {
@@ -2688,7 +2688,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/grunt.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/grunt.min.js",
       "fileType" : 64
@@ -2792,15 +2792,15 @@
       "initialSize" : 183,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/pen_alt_stroke_8x8.png" : {
+    "\/public\/assets\/icons\/transfer_24x18.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt_stroke_8x8.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/transfer_24x18.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt_stroke_8x8.png",
-      "initialSize" : 163,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/transfer_24x18.png",
+      "initialSize" : 222,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/list_nested_16x14.png" : {
@@ -2825,37 +2825,15 @@
       "initialSize" : 211,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/transfer_24x18.png" : {
+    "\/public\/assets\/icons\/document_fill_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/transfer_24x18.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/document_fill_16x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/transfer_24x18.png",
-      "initialSize" : 222,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/left_quote_32x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_32x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_32x24.png",
-      "initialSize" : 263,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/clock_12x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/clock_12x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/clock_12x12.png",
-      "initialSize" : 227,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/document_fill_16x16.png",
+      "initialSize" : 197,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/paperclip_14x16.png" : {
@@ -2869,6 +2847,28 @@
       "initialSize" : 284,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/mail_32x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/mail_32x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/mail_32x24.png",
+      "initialSize" : 301,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/clock_12x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/clock_12x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/clock_12x12.png",
+      "initialSize" : 227,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/bolt_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2880,26 +2880,26 @@
       "initialSize" : 299,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/document_fill_16x16.png" : {
+    "\/public\/assets\/icons\/pen_alt_stroke_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/document_fill_16x16.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt_stroke_8x8.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/document_fill_16x16.png",
-      "initialSize" : 197,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt_stroke_8x8.png",
+      "initialSize" : 163,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/mail_32x24.png" : {
+    "\/public\/assets\/icons\/left_quote_32x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/mail_32x24.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_32x24.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/mail_32x24.png",
-      "initialSize" : 301,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_32x24.png",
+      "initialSize" : 263,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/play_9x12.png" : {
@@ -2941,7 +2941,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/lib\/chai.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/lib\/chai.min.js",
       "fileType" : 64
@@ -2957,16 +2957,27 @@
       "initialSize" : 176,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/trash_stroke_8x8.png" : {
+    "\/public\/assets\/icons\/spin_alt_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/trash_stroke_8x8.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/spin_alt_12x12.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/trash_stroke_8x8.png",
-      "initialSize" : 153,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/spin_alt_12x12.png",
+      "initialSize" : 218,
       "fileType" : 8192
+    },
+    "\/public\/js\/models\/family.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/js\/models\/family.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/public\/js\/models\/family.min.js",
+      "fileType" : 64
     },
     "\/public\/assets\/icons\/pen_alt_stroke_12x12.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2990,17 +3001,6 @@
       "initialSize" : 311,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/loop_alt1_24x18.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt1_24x18.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt1_24x18.png",
-      "initialSize" : 281,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/key_stroke_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3012,37 +3012,26 @@
       "initialSize" : 350,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/spin_alt_12x12.png" : {
+    "\/public\/assets\/icons\/loop_alt1_24x18.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/spin_alt_12x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt1_24x18.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/spin_alt_12x12.png",
-      "initialSize" : 218,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt1_24x18.png",
+      "initialSize" : 281,
       "fileType" : 8192
     },
-    "\/public\/js\/models\/family.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/js\/models\/family.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/public\/js\/models\/family.min.js",
-      "fileType" : 64
-    },
-    "\/public\/assets\/icons\/folder_fill_32x32.png" : {
+    "\/public\/assets\/icons\/comment_alt1_fill_24x18.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/folder_fill_32x32.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt1_fill_24x18.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/folder_fill_32x32.png",
-      "initialSize" : 158,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt1_fill_24x18.png",
+      "initialSize" : 277,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/volume_12x9.png" : {
@@ -3054,17 +3043,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/volume_12x9.png",
       "initialSize" : 226,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/new_window_16x16.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/new_window_16x16.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/new_window_16x16.png",
-      "initialSize" : 163,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/user_18x24.png" : {
@@ -3100,26 +3078,15 @@
       "initialSize" : 298,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/download_18x24.png" : {
+    "\/public\/assets\/icons\/folder_fill_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/download_18x24.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/folder_fill_32x32.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/download_18x24.png",
-      "initialSize" : 213,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/layers_8x7.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/layers_8x7.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/layers_8x7.png",
-      "initialSize" : 148,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/folder_fill_32x32.png",
+      "initialSize" : 158,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/minus_alt_8x8.png" : {
@@ -3133,15 +3100,48 @@
       "initialSize" : 154,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/comment_alt1_fill_24x18.png" : {
+    "\/public\/assets\/icons\/new_window_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt1_fill_24x18.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/new_window_16x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt1_fill_24x18.png",
-      "initialSize" : 277,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/new_window_16x16.png",
+      "initialSize" : 163,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/layers_8x7.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/layers_8x7.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/layers_8x7.png",
+      "initialSize" : 148,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/download_18x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/download_18x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/download_18x24.png",
+      "initialSize" : 213,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/trash_stroke_8x8.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/trash_stroke_8x8.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/trash_stroke_8x8.png",
+      "initialSize" : 153,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/home_24x24.png" : {
@@ -3221,17 +3221,6 @@
       "initialSize" : 210,
       "fileType" : 8192
     },
-    "\/public\/test\/lib\/mocha\/mocha.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/test\/lib\/mocha\/mocha.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/public\/test\/lib\/mocha\/mocha.min.js",
-      "fileType" : 64
-    },
     "\/public\/assets\/icons\/award_fill_8x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3241,6 +3230,28 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/award_fill_8x16.png",
       "initialSize" : 194,
+      "fileType" : 8192
+    },
+    "\/public\/test\/lib\/mocha\/mocha.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/test\/lib\/mocha\/mocha.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/public\/test\/lib\/mocha\/mocha.min.js",
+      "fileType" : 64
+    },
+    "\/public\/assets\/icons\/box_8x8.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/box_8x8.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/box_8x8.png",
+      "initialSize" : 140,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/tag_fill_8x8.png" : {
@@ -3254,17 +3265,6 @@
       "initialSize" : 168,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/box_8x8.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/box_8x8.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/box_8x8.png",
-      "initialSize" : 140,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/arrow_down_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3276,26 +3276,15 @@
       "initialSize" : 307,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/mic_6x8.png" : {
+    "\/public\/assets\/icons\/folder_stroke_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/mic_6x8.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/folder_stroke_16x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/mic_6x8.png",
-      "initialSize" : 173,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/rain_8x7.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/rain_8x7.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/rain_8x7.png",
-      "initialSize" : 184,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/folder_stroke_16x16.png",
+      "initialSize" : 165,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/lock_fill_9x12.png" : {
@@ -3320,15 +3309,26 @@
       "initialSize" : 317,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/folder_stroke_16x16.png" : {
+    "\/public\/assets\/icons\/rain_8x7.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/folder_stroke_16x16.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/rain_8x7.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/folder_stroke_16x16.png",
-      "initialSize" : 165,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/rain_8x7.png",
+      "initialSize" : 184,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/mic_6x8.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/mic_6x8.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/mic_6x8.png",
+      "initialSize" : 173,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/map_pin_stroke_8x12.png" : {
@@ -3386,6 +3386,17 @@
       "initialSize" : 199,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/comment_fill_24x21.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/comment_fill_24x21.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_fill_24x21.png",
+      "initialSize" : 262,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/pen_alt2_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3395,17 +3406,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt2_8x8.png",
       "initialSize" : 167,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/cloud_download_16x16.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_download_16x16.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_download_16x16.png",
-      "initialSize" : 245,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/pause_9x12.png" : {
@@ -3419,15 +3419,15 @@
       "initialSize" : 125,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/comment_fill_24x21.png" : {
+    "\/public\/assets\/icons\/cloud_download_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/comment_fill_24x21.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_download_16x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_fill_24x21.png",
-      "initialSize" : 262,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_download_16x16.png",
+      "initialSize" : 245,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/box_24x24.png" : {
@@ -3474,17 +3474,6 @@
       "initialSize" : 208,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/comment_fill_12x11.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/comment_fill_12x11.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_fill_12x11.png",
-      "initialSize" : 180,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/umbrella_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3505,6 +3494,28 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_8x5.png",
       "initialSize" : 152,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/comment_fill_12x11.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/comment_fill_12x11.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_fill_12x11.png",
+      "initialSize" : 180,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/move_vertical_alt2_12x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_vertical_alt2_12x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_vertical_alt2_12x12.png",
+      "initialSize" : 206,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/cloud_upload_16x16.png" : {
@@ -3529,17 +3540,6 @@
       "initialSize" : 311,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/move_vertical_alt2_12x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_vertical_alt2_12x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_vertical_alt2_12x12.png",
-      "initialSize" : 206,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/minus_32x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3549,17 +3549,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/minus_32x8.png",
       "initialSize" : 122,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/check_alt_24x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/check_alt_24x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/check_alt_24x24.png",
-      "initialSize" : 320,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/pin_24x24.png" : {
@@ -3573,13 +3562,24 @@
       "initialSize" : 396,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/check_alt_24x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/check_alt_24x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/check_alt_24x24.png",
+      "initialSize" : 320,
+      "fileType" : 8192
+    },
     "\/public\/js\/vendor\/underscore.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/vendor\/underscore.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/vendor\/underscore.min.js",
       "fileType" : 64
@@ -3612,7 +3612,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/vendor\/jquery.placeholder.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/vendor\/jquery.placeholder.min.js",
       "fileType" : 64
@@ -3716,17 +3716,6 @@
       "initialSize" : 284,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/layers_16x14.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/layers_16x14.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/layers_16x14.png",
-      "initialSize" : 180,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/beaker_4x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3738,15 +3727,15 @@
       "initialSize" : 138,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/article_24x24.png" : {
+    "\/public\/assets\/icons\/layers_16x14.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/article_24x24.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/layers_16x14.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/article_24x24.png",
-      "initialSize" : 175,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/layers_16x14.png",
+      "initialSize" : 180,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/move_horizontal_32x12.png" : {
@@ -3758,6 +3747,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_horizontal_32x12.png",
       "initialSize" : 181,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/article_24x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/article_24x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/article_24x24.png",
+      "initialSize" : 175,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/comment_alt1_fill_16x12.png" : {
@@ -3832,7 +3832,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/spec\/models\/itemSpec.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/spec\/models\/itemSpec.min.js",
       "fileType" : 64
@@ -3848,15 +3848,15 @@
       "initialSize" : 174,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/bars_12x12.png" : {
+    "\/public\/assets\/icons\/reload_alt_6x7.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/bars_12x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/reload_alt_6x7.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/bars_12x12.png",
-      "initialSize" : 141,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/reload_alt_6x7.png",
+      "initialSize" : 167,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/magnifying_glass_24x24.png" : {
@@ -3870,15 +3870,15 @@
       "initialSize" : 368,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/reload_alt_6x7.png" : {
+    "\/public\/assets\/icons\/bars_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/reload_alt_6x7.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/bars_12x12.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/reload_alt_6x7.png",
-      "initialSize" : 167,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/bars_12x12.png",
+      "initialSize" : 141,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/rain_12x11.png" : {
@@ -3953,7 +3953,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/spec\/views\/listItemViewSpec.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/spec\/views\/listItemViewSpec.min.js",
       "fileType" : 64
@@ -4035,17 +4035,6 @@
       "initialSize" : 257,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/loop_alt2_24x21.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt2_24x21.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt2_24x21.png",
-      "initialSize" : 283,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/layers_alt_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4055,6 +4044,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/layers_alt_16x16.png",
       "initialSize" : 170,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/loop_alt2_24x21.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt2_24x21.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt2_24x21.png",
+      "initialSize" : 283,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/fullscreen_alt_24x24.png" : {
@@ -4134,16 +4134,16 @@
       "initialSize" : 173,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/left_quote_16x12.png" : {
+    "\/public\/assets\/white_wall2_@2X.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_16x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/white_wall2_@2X.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_16x12.png",
-      "initialSize" : 194,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/public\/assets\/white_wall2_@2X.jpg",
+      "initialSize" : 30933,
+      "fileType" : 4096
     },
     "\/public\/assets\/icons\/calendar_alt_stroke_16x16.png" : {
       "ignoreWasSetByUser" : 0,
@@ -4167,16 +4167,16 @@
       "initialSize" : 163,
       "fileType" : 8192
     },
-    "\/public\/assets\/white_wall2_@2X.jpg" : {
+    "\/public\/assets\/icons\/left_quote_16x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/white_wall2_@2X.jpg",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_16x12.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/white_wall2_@2X.jpg",
-      "initialSize" : 30933,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_16x12.png",
+      "initialSize" : 194,
+      "fileType" : 8192
     },
     "\/public\/assets\/icons\/wrench_32x32.png" : {
       "ignoreWasSetByUser" : 0,
@@ -4200,15 +4200,15 @@
       "initialSize" : 284,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/bars_alt_7x8.png" : {
+    "\/public\/assets\/icons\/aperture_alt_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/bars_alt_7x8.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/aperture_alt_16x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/bars_alt_7x8.png",
-      "initialSize" : 131,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/aperture_alt_16x16.png",
+      "initialSize" : 368,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/bars_24x24.png" : {
@@ -4222,15 +4222,15 @@
       "initialSize" : 149,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/aperture_alt_16x16.png" : {
+    "\/public\/assets\/icons\/bars_alt_7x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/aperture_alt_16x16.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/bars_alt_7x8.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/aperture_alt_16x16.png",
-      "initialSize" : 368,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/bars_alt_7x8.png",
+      "initialSize" : 131,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/umbrella_12x12.png" : {
@@ -4420,17 +4420,6 @@
       "initialSize" : 181,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_right_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_32x32.png",
-      "initialSize" : 270,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/equalizer_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4440,6 +4429,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/equalizer_32x32.png",
       "initialSize" : 211,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/arrow_right_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_32x32.png",
+      "initialSize" : 270,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/headphones_24x21.png" : {
@@ -4464,26 +4464,15 @@
       "initialSize" : 194,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_right_alt1_24x24.png" : {
+    "\/public\/assets\/icons\/list_nested_8x7.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_alt1_24x24.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/list_nested_8x7.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_alt1_24x24.png",
-      "initialSize" : 303,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/left_quote_alt_16x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_alt_16x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_alt_16x12.png",
-      "initialSize" : 168,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/list_nested_8x7.png",
+      "initialSize" : 130,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/cloud_upload_8x8.png" : {
@@ -4497,27 +4486,27 @@
       "initialSize" : 181,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/list_nested_8x7.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/list_nested_8x7.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/list_nested_8x7.png",
-      "initialSize" : 130,
-      "fileType" : 8192
-    },
     "\/public\/js\/vendor\/jquery.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/vendor\/jquery.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/vendor\/jquery.min.js",
       "fileType" : 64
+    },
+    "\/public\/assets\/icons\/arrow_right_alt1_24x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_alt1_24x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_alt1_24x24.png",
+      "initialSize" : 303,
+      "fileType" : 8192
     },
     "\/public\/js\/models\/card.js" : {
       "ignoreWasSetByUser" : 1,
@@ -4525,10 +4514,21 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/models\/card.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/models\/card.min.js",
       "fileType" : 64
+    },
+    "\/public\/assets\/icons\/left_quote_alt_16x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_alt_16x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_alt_16x12.png",
+      "initialSize" : 168,
+      "fileType" : 8192
     },
     "\/public\/assets\/icons\/layers_24x21.png" : {
       "ignoreWasSetByUser" : 0,
@@ -4717,15 +4717,15 @@
       "initialSize" : 362,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/bars_alt_14x16.png" : {
+    "\/public\/assets\/icons\/loop_alt4_12x9.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/bars_alt_14x16.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt4_12x9.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/bars_alt_14x16.png",
-      "initialSize" : 138,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt4_12x9.png",
+      "initialSize" : 193,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/chat_alt_stroke_16x16.png" : {
@@ -4739,15 +4739,15 @@
       "initialSize" : 286,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/loop_alt4_12x9.png" : {
+    "\/public\/assets\/icons\/bars_alt_14x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt4_12x9.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/bars_alt_14x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt4_12x9.png",
-      "initialSize" : 193,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/bars_alt_14x16.png",
+      "initialSize" : 138,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/undo_8x8.png" : {
@@ -4772,17 +4772,6 @@
       "initialSize" : 241,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/document_alt_stroke_9x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/document_alt_stroke_9x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/document_alt_stroke_9x12.png",
-      "initialSize" : 186,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/book_alt_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4792,6 +4781,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/book_alt_32x32.png",
       "initialSize" : 272,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/document_alt_stroke_9x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/document_alt_stroke_9x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/document_alt_stroke_9x12.png",
+      "initialSize" : 186,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/compass_32x32.png" : {
@@ -4816,17 +4816,6 @@
       "initialSize" : 147,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/comment_alt2_stroke_11x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt2_stroke_11x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt2_stroke_11x12.png",
-      "initialSize" : 237,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/move_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4836,6 +4825,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_16x16.png",
       "initialSize" : 183,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/comment_alt2_stroke_11x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt2_stroke_11x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt2_stroke_11x12.png",
+      "initialSize" : 237,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/cloud_download_32x32.png" : {
@@ -4888,7 +4888,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/spec\/views\/cardsViewSpec.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/spec\/views\/cardsViewSpec.min.js",
       "fileType" : 64
@@ -4904,15 +4904,15 @@
       "initialSize" : 152,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/read_more_16x16.png" : {
+    "\/public\/assets\/icons\/new_window_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_16x16.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/new_window_12x12.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_16x16.png",
-      "initialSize" : 149,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/new_window_12x12.png",
+      "initialSize" : 178,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/rss_8x8.png" : {
@@ -4926,15 +4926,15 @@
       "initialSize" : 204,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/new_window_12x12.png" : {
+    "\/public\/assets\/icons\/read_more_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/new_window_12x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_16x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/new_window_12x12.png",
-      "initialSize" : 178,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_16x16.png",
+      "initialSize" : 149,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/aperture_24x24.png" : {
@@ -5025,17 +5025,6 @@
       "initialSize" : 257,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/cloud_16x10.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_16x10.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_16x10.png",
-      "initialSize" : 211,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/image_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5045,6 +5034,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/image_32x32.png",
       "initialSize" : 265,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/cloud_16x10.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_16x10.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_16x10.png",
+      "initialSize" : 211,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/move_alt1_16x16.png" : {
@@ -5069,17 +5069,6 @@
       "initialSize" : 258,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/spin_alt_24x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/spin_alt_24x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/spin_alt_24x24.png",
-      "initialSize" : 318,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/play_alt_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5100,6 +5089,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_up_alt1_16x16.png",
       "initialSize" : 232,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/spin_alt_24x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/spin_alt_24x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/spin_alt_24x24.png",
+      "initialSize" : 318,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/left_quote_alt_12x9.png" : {
@@ -5207,7 +5207,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/spec\/views\/cardViewSpec.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/spec\/views\/cardViewSpec.min.js",
       "fileType" : 64
@@ -5234,17 +5234,6 @@
       "initialSize" : 161,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/layers_12x11.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/layers_12x11.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/layers_12x11.png",
-      "initialSize" : 177,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/heart_stroke_16x14.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5254,6 +5243,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/heart_stroke_16x14.png",
       "initialSize" : 273,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/layers_12x11.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/layers_12x11.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/layers_12x11.png",
+      "initialSize" : 177,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/eyedropper_12x12.png" : {
@@ -5361,7 +5361,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/views\/cardsView.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/views\/cardsView.min.js",
       "fileType" : 64
@@ -5520,15 +5520,15 @@
       "initialSize" : 177,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/movie_12x12.png" : {
+    "\/public\/assets\/icons\/fullscreen_exit_alt_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/movie_12x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/fullscreen_exit_alt_8x8.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/movie_12x12.png",
-      "initialSize" : 198,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/fullscreen_exit_alt_8x8.png",
+      "initialSize" : 166,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/camera_24x24.png" : {
@@ -5542,15 +5542,15 @@
       "initialSize" : 320,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/fullscreen_exit_alt_8x8.png" : {
+    "\/public\/assets\/icons\/movie_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/fullscreen_exit_alt_8x8.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/movie_12x12.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/fullscreen_exit_alt_8x8.png",
-      "initialSize" : 166,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/movie_12x12.png",
+      "initialSize" : 198,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/arrow_left_alt2_32x32.png" : {
@@ -5680,7 +5680,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/vendor\/require.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/vendor\/require.min.js",
       "fileType" : 64
@@ -5806,17 +5806,6 @@
       "initialSize" : 173,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_left_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_32x32.png",
-      "initialSize" : 239,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/trash_fill_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5839,6 +5828,17 @@
       "initialSize" : 140,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/arrow_left_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_32x32.png",
+      "initialSize" : 239,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/chart_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5848,6 +5848,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/chart_24x24.png",
       "initialSize" : 315,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/minus_12x3.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/minus_12x3.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/minus_12x3.png",
+      "initialSize" : 114,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/question_mark_6x12.png" : {
@@ -5881,17 +5892,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/check_alt_16x16.png",
       "initialSize" : 228,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/minus_12x3.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/minus_12x3.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/minus_12x3.png",
-      "initialSize" : 114,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/cloud_download_8x8.png" : {
@@ -5999,7 +5999,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/spec\/models\/cardSpec.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/spec\/models\/cardSpec.min.js",
       "fileType" : 64
@@ -6120,7 +6120,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/views\/appView.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/views\/appView.min.js",
       "fileType" : 64
@@ -6136,17 +6136,6 @@
       "initialSize" : 226,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/chat_alt_stroke_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/chat_alt_stroke_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/chat_alt_stroke_32x32.png",
-      "initialSize" : 484,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/wrench_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6156,6 +6145,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/wrench_16x16.png",
       "initialSize" : 214,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/chat_alt_stroke_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/chat_alt_stroke_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/chat_alt_stroke_32x32.png",
+      "initialSize" : 484,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/heart_stroke_8x7.png" : {
@@ -6186,7 +6186,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/spec\/models\/familySpec.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/spec\/models\/familySpec.min.js",
       "fileType" : 64
@@ -6213,6 +6213,17 @@
       "initialSize" : 240,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/play_24x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/play_24x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/play_24x32.png",
+      "initialSize" : 217,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/umbrella_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6233,17 +6244,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/transfer_12x9.png",
       "initialSize" : 182,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/play_24x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/play_24x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/play_24x32.png",
-      "initialSize" : 217,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/pilcrow_6x8.png" : {
@@ -6290,17 +6290,6 @@
       "initialSize" : 141,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_down_alt2_16x16.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_alt2_16x16.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_alt2_16x16.png",
-      "initialSize" : 217,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/at_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6310,6 +6299,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/at_16x16.png",
       "initialSize" : 294,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/arrow_down_alt2_16x16.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_alt2_16x16.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_alt2_16x16.png",
+      "initialSize" : 217,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/rss_16x16.png" : {
@@ -6522,8 +6522,8 @@
       "fileType" : 8192
     },
     "\/public\/js\/views\/listView.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/views\/listView.js",
@@ -6609,6 +6609,17 @@
       "initialSize" : 117,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/rss_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/rss_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/rss_32x32.png",
+      "initialSize" : 514,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/chat_alt_fill_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6629,17 +6640,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_up_alt2_8x8.png",
       "initialSize" : 169,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/rss_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/rss_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/rss_32x32.png",
-      "initialSize" : 514,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/iphone_9x12.png" : {
@@ -6686,17 +6686,6 @@
       "initialSize" : 211,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/compass_16x16.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/compass_16x16.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/compass_16x16.png",
-      "initialSize" : 294,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/check_alt_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6706,6 +6695,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/check_alt_8x8.png",
       "initialSize" : 176,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/compass_16x16.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/compass_16x16.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/compass_16x16.png",
+      "initialSize" : 294,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/compass_8x8.png" : {
@@ -6772,6 +6772,17 @@
       "initialSize" : 289,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/arrow_right_12x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_12x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_12x12.png",
+      "initialSize" : 171,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/arrow_down_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6781,17 +6792,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_12x12.png",
       "initialSize" : 192,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/tag_fill_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/tag_fill_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/tag_fill_32x32.png",
-      "initialSize" : 356,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/moon_stroke_24x24.png" : {
@@ -6805,15 +6805,15 @@
       "initialSize" : 422,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_right_12x12.png" : {
+    "\/public\/assets\/icons\/tag_fill_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_12x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/tag_fill_32x32.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_12x12.png",
-      "initialSize" : 171,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/tag_fill_32x32.png",
+      "initialSize" : 356,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/key_stroke_32x32.png" : {
@@ -6937,6 +6937,17 @@
       "initialSize" : 415,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/reload_24x28.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/reload_24x28.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/reload_24x28.png",
+      "initialSize" : 357,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/bars_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6946,17 +6957,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/bars_8x8.png",
       "initialSize" : 126,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/eject_16x16.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/eject_16x16.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/eject_16x16.png",
-      "initialSize" : 203,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/arrow_right_16x16.png" : {
@@ -6970,26 +6970,15 @@
       "initialSize" : 200,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/reload_24x28.png" : {
+    "\/public\/assets\/icons\/eject_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/reload_24x28.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/eject_16x16.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/reload_24x28.png",
-      "initialSize" : 357,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/lightbulb_15x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/lightbulb_15x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/lightbulb_15x24.png",
-      "initialSize" : 330,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/eject_16x16.png",
+      "initialSize" : 203,
       "fileType" : 8192
     },
     "\/public\/js\/vendor\/backbone.js" : {
@@ -6998,7 +6987,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/vendor\/backbone.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/vendor\/backbone.min.js",
       "fileType" : 64
@@ -7012,6 +7001,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_8x8.png",
       "initialSize" : 163,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/lightbulb_15x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/lightbulb_15x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/lightbulb_15x24.png",
+      "initialSize" : 330,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/aperture_alt_24x24.png" : {
@@ -7037,8 +7037,8 @@
       "fileType" : 8192
     },
     "\/public\/js\/familyonelist.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/familyonelist.js",
@@ -7168,17 +7168,6 @@
       "initialSize" : 240,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/read_more_12x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_12x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_12x12.png",
-      "initialSize" : 155,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/article_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7188,6 +7177,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/article_8x8.png",
       "initialSize" : 130,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/read_more_12x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_12x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/read_more_12x12.png",
+      "initialSize" : 155,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/document_alt_stroke_12x16.png" : {
@@ -7245,17 +7245,6 @@
       "initialSize" : 363,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/tag_stroke_8x8.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/tag_stroke_8x8.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/tag_stroke_8x8.png",
-      "initialSize" : 199,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/unlock_stroke_18x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7265,6 +7254,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/unlock_stroke_18x24.png",
       "initialSize" : 310,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/tag_stroke_8x8.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/tag_stroke_8x8.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/tag_stroke_8x8.png",
+      "initialSize" : 199,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/eject_24x24.png" : {
@@ -7509,17 +7509,6 @@
       "initialSize" : 205,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_left_alt1_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt1_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt1_32x32.png",
-      "initialSize" : 377,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/x_7x7.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7529,6 +7518,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/x_7x7.png",
       "initialSize" : 151,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/arrow_left_alt1_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt1_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt1_32x32.png",
+      "initialSize" : 377,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/new_window_24x24.png" : {
@@ -7586,17 +7586,6 @@
       "initialSize" : 207,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/trash_stroke_24x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/trash_stroke_24x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/trash_stroke_24x24.png",
-      "initialSize" : 246,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/document_alt_stroke_6x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7608,15 +7597,26 @@
       "initialSize" : 142,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/list_nested_24x21.png" : {
+    "\/public\/assets\/icons\/trash_stroke_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/list_nested_24x21.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/trash_stroke_24x24.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/list_nested_24x21.png",
-      "initialSize" : 180,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/trash_stroke_24x24.png",
+      "initialSize" : 246,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/arrow_left_16x16.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_16x16.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_16x16.png",
+      "initialSize" : 191,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/eject_32x32.png" : {
@@ -7630,15 +7630,15 @@
       "initialSize" : 270,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_left_16x16.png" : {
+    "\/public\/assets\/icons\/list_nested_24x21.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_16x16.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/list_nested_24x21.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_16x16.png",
-      "initialSize" : 191,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/list_nested_24x21.png",
+      "initialSize" : 180,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/link_12x12.png" : {
@@ -7685,16 +7685,16 @@
       "initialSize" : 200,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/steering_wheel_8x8.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+    "\/public\/js\/views\/cardView.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/steering_wheel_8x8.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/steering_wheel_8x8.png",
-      "initialSize" : 188,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/public\/js\/views\/cardView.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/public\/js\/views\/cardView.min.js",
+      "fileType" : 64
     },
     "\/public\/assets\/icons\/aperture_32x32.png" : {
       "ignoreWasSetByUser" : 0,
@@ -7705,6 +7705,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/aperture_32x32.png",
       "initialSize" : 497,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/steering_wheel_8x8.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/steering_wheel_8x8.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/steering_wheel_8x8.png",
+      "initialSize" : 188,
       "fileType" : 8192
     },
     "\/public\/css\/app.scss" : {
@@ -7730,16 +7741,16 @@
       "initialSize" : 269,
       "fileType" : 8192
     },
-    "\/public\/js\/views\/cardView.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
+    "\/public\/assets\/icons\/home_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/js\/views\/cardView.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/public\/js\/views\/cardView.min.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/home_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/home_32x32.png",
+      "initialSize" : 285,
+      "fileType" : 8192
     },
     "\/public\/assets\/icons\/book_7x8.png" : {
       "ignoreWasSetByUser" : 0,
@@ -7750,17 +7761,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/book_7x8.png",
       "initialSize" : 161,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/home_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/home_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/home_32x32.png",
-      "initialSize" : 285,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/box_12x12.png" : {
@@ -7774,17 +7774,6 @@
       "initialSize" : 165,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_down_alt2_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_alt2_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_alt2_32x32.png",
-      "initialSize" : 380,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/beaker_8x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7794,6 +7783,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/beaker_8x16.png",
       "initialSize" : 184,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/arrow_down_alt2_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_alt2_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_alt2_32x32.png",
+      "initialSize" : 380,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/last_12x12.png" : {
@@ -7807,17 +7807,6 @@
       "initialSize" : 179,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/map_pin_alt_12x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/map_pin_alt_12x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/map_pin_alt_12x24.png",
-      "initialSize" : 288,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/left_quote_12x9.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7827,6 +7816,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/left_quote_12x9.png",
       "initialSize" : 202,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/map_pin_alt_12x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/map_pin_alt_12x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/map_pin_alt_12x24.png",
+      "initialSize" : 288,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/beaker_alt_12x24.png" : {
@@ -7884,17 +7884,6 @@
       "initialSize" : 197,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_right_alt1_16x16.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_alt1_16x16.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_alt1_16x16.png",
-      "initialSize" : 219,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/comment_alt1_stroke_32x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7904,6 +7893,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt1_stroke_32x24.png",
       "initialSize" : 400,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/arrow_right_alt1_16x16.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_alt1_16x16.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_right_alt1_16x16.png",
+      "initialSize" : 219,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/pin_12x12.png" : {
@@ -7950,15 +7950,15 @@
       "initialSize" : 187,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/heart_fill_24x21.png" : {
+    "\/public\/assets\/icons\/at_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/heart_fill_24x21.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/at_12x12.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/heart_fill_24x21.png",
-      "initialSize" : 308,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/at_12x12.png",
+      "initialSize" : 239,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/book_14x16.png" : {
@@ -7994,15 +7994,15 @@
       "initialSize" : 240,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/at_12x12.png" : {
+    "\/public\/assets\/icons\/heart_fill_24x21.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/at_12x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/heart_fill_24x21.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/at_12x12.png",
-      "initialSize" : 239,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/heart_fill_24x21.png",
+      "initialSize" : 308,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/battery_empty_24x12.png" : {
@@ -8049,17 +8049,6 @@
       "initialSize" : 264,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/mail_12x9.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/mail_12x9.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/mail_12x9.png",
-      "initialSize" : 188,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/layers_alt_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -8104,6 +8093,17 @@
       "initialSize" : 271,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/loop_alt1_16x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt1_16x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt1_16x12.png",
+      "initialSize" : 201,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/move_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -8115,15 +8115,15 @@
       "initialSize" : 188,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/loop_alt1_16x12.png" : {
+    "\/public\/assets\/icons\/mail_12x9.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt1_16x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/mail_12x9.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/loop_alt1_16x12.png",
-      "initialSize" : 201,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/mail_12x9.png",
+      "initialSize" : 188,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/comment_fill_32x28.png" : {
@@ -8137,17 +8137,6 @@
       "initialSize" : 316,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/brush_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/brush_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/brush_32x32.png",
-      "initialSize" : 319,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/cloud_12x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -8157,6 +8146,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/cloud_12x8.png",
       "initialSize" : 210,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/brush_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/brush_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/brush_32x32.png",
+      "initialSize" : 319,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/mail_24x18.png" : {
@@ -8198,7 +8198,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/vendor\/foundation.min.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/vendor\/foundation.min.min.js",
       "fileType" : 64
@@ -8247,17 +8247,6 @@
       "initialSize" : 254,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/pen_alt2_24x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt2_24x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt2_24x24.png",
-      "initialSize" : 257,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/unlock_fill_12x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -8267,6 +8256,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/unlock_fill_12x16.png",
       "initialSize" : 207,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/pen_alt2_24x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt2_24x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/pen_alt2_24x24.png",
+      "initialSize" : 257,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/pilcrow_9x12.png" : {
@@ -8291,17 +8291,6 @@
       "initialSize" : 156,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/brush_alt_24x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/brush_alt_24x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/brush_alt_24x24.png",
-      "initialSize" : 260,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/lock_stroke_12x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -8311,6 +8300,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/lock_stroke_12x16.png",
       "initialSize" : 226,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/brush_alt_24x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/brush_alt_24x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/brush_alt_24x24.png",
+      "initialSize" : 260,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/bolt_12x12.png" : {
@@ -8550,7 +8550,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/routes\/appRouter.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/routes\/appRouter.min.js",
       "fileType" : 64
@@ -8691,7 +8691,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/vendor\/modernizr.foundation.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/vendor\/modernizr.foundation.min.js",
       "fileType" : 64
@@ -8768,7 +8768,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/css\/app.css",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 16
     },
     "\/public\/assets\/icons\/cloud_download_24x24.png" : {
@@ -8892,17 +8892,6 @@
       "initialSize" : 222,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/heart_stroke_24x21.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/heart_stroke_24x21.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/heart_stroke_24x21.png",
-      "initialSize" : 343,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/play_alt_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -8912,6 +8901,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/play_alt_16x16.png",
       "initialSize" : 206,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/heart_stroke_24x21.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/heart_stroke_24x21.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/heart_stroke_24x21.png",
+      "initialSize" : 343,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/book_alt_8x8.png" : {
@@ -9052,7 +9052,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/runner\/mocha.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/runner\/mocha.min.js",
       "fileType" : 64
@@ -9085,7 +9085,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/js\/main.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/main.min.js",
       "fileType" : 64
@@ -9145,17 +9145,6 @@
       "initialSize" : 140,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/curved_arrow_24x18.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/curved_arrow_24x18.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/curved_arrow_24x18.png",
-      "initialSize" : 286,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/comment_alt1_fill_8x6.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -9165,6 +9154,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/comment_alt1_fill_8x6.png",
       "initialSize" : 151,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/curved_arrow_24x18.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/curved_arrow_24x18.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/curved_arrow_24x18.png",
+      "initialSize" : 286,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/arrow_up_alt1_24x24.png" : {
@@ -9184,7 +9184,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/public\/test\/spec\/views\/appViewSpec.js",
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/public\/test\/spec\/views\/appViewSpec.min.js",
       "fileType" : 64
@@ -9209,17 +9209,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/public\/assets\/icons\/battery_charging_12x6.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/battery_charging_12x6.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/battery_charging_12x6.png",
-      "initialSize" : 172,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/upload_9x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -9231,70 +9220,26 @@
       "initialSize" : 175,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/camera_32x32.png" : {
+    "\/public\/assets\/icons\/battery_charging_12x6.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/camera_32x32.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/battery_charging_12x6.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/camera_32x32.png",
-      "initialSize" : 407,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/battery_charging_12x6.png",
+      "initialSize" : 172,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/mail_16x12.png" : {
+    "\/public\/assets\/icons\/move_alt1_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/mail_16x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt1_8x8.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/mail_16x12.png",
-      "initialSize" : 209,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/folder_stroke_8x8.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/folder_stroke_8x8.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/folder_stroke_8x8.png",
-      "initialSize" : 151,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/move_vertical_alt1_5x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_vertical_alt1_5x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_vertical_alt1_5x12.png",
-      "initialSize" : 171,
-      "fileType" : 8192
-    },
-    "\/public\/js\/collections\/items.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/js\/collections\/items.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/public\/js\/collections\/items.min.js",
-      "fileType" : 64
-    },
-    "\/public\/assets\/icons\/steering_wheel_32x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/steering_wheel_32x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/steering_wheel_32x32.png",
-      "initialSize" : 503,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt1_8x8.png",
+      "initialSize" : 188,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/map_pin_stroke_10x16.png" : {
@@ -9308,6 +9253,17 @@
       "initialSize" : 243,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/steering_wheel_32x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/steering_wheel_32x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/steering_wheel_32x32.png",
+      "initialSize" : 503,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/arrow_down_alt1_16x16.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -9318,6 +9274,50 @@
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_down_alt1_16x16.png",
       "initialSize" : 231,
       "fileType" : 8192
+    },
+    "\/public\/test\/spec\/example.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/test\/spec\/example.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/public\/test\/spec\/example.min.js",
+      "fileType" : 64
+    },
+    "\/public\/assets\/icons\/folder_stroke_8x8.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/folder_stroke_8x8.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/folder_stroke_8x8.png",
+      "initialSize" : 151,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/mail_16x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/mail_16x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/mail_16x12.png",
+      "initialSize" : 209,
+      "fileType" : 8192
+    },
+    "\/public\/js\/collections\/items.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/js\/collections\/items.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/public\/js\/collections\/items.min.js",
+      "fileType" : 64
     },
     "\/public\/assets\/icons\/map_pin_stroke_20x32.png" : {
       "ignoreWasSetByUser" : 0,
@@ -9363,37 +9363,26 @@
       "initialSize" : 271,
       "fileType" : 8192
     },
-    "\/public\/test\/spec\/example.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/test\/spec\/example.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/public\/test\/spec\/example.min.js",
-      "fileType" : 64
-    },
-    "\/public\/assets\/icons\/move_alt1_8x8.png" : {
+    "\/public\/assets\/icons\/camera_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt1_8x8.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/camera_32x32.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt1_8x8.png",
-      "initialSize" : 188,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/camera_32x32.png",
+      "initialSize" : 407,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/minus_16x4.png" : {
+    "\/public\/assets\/icons\/move_vertical_alt1_5x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/minus_16x4.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_vertical_alt1_5x12.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/minus_16x4.png",
-      "initialSize" : 118,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_vertical_alt1_5x12.png",
+      "initialSize" : 171,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/spin_7x8.png" : {
@@ -9407,17 +9396,6 @@
       "initialSize" : 198,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/compass_12x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/compass_12x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/compass_12x12.png",
-      "initialSize" : 223,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/move_vertical_alt2_32x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -9429,6 +9407,17 @@
       "initialSize" : 345,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/compass_12x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/compass_12x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/compass_12x12.png",
+      "initialSize" : 223,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/cd_12x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -9438,6 +9427,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/cd_12x12.png",
       "initialSize" : 213,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/minus_16x4.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/minus_16x4.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/minus_16x4.png",
+      "initialSize" : 118,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/camera_12x12.png" : {
@@ -9484,17 +9484,6 @@
       "initialSize" : 319,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/arrow_left_alt2_24x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt2_24x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt2_24x24.png",
-      "initialSize" : 315,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/chart_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -9506,37 +9495,15 @@
       "initialSize" : 197,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/plus_alt_12x12.png" : {
+    "\/public\/assets\/icons\/arrow_left_alt2_24x24.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/plus_alt_12x12.png",
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt2_24x24.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/plus_alt_12x12.png",
-      "initialSize" : 202,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/move_alt2_24x24.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt2_24x24.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt2_24x24.png",
-      "initialSize" : 342,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/fork_28x32.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/fork_28x32.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/fork_28x32.png",
-      "initialSize" : 314,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_alt2_24x24.png",
+      "initialSize" : 315,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/aperture_alt_32x32.png" : {
@@ -9550,6 +9517,17 @@
       "initialSize" : 455,
       "fileType" : 8192
     },
+    "\/public\/assets\/icons\/plus_alt_12x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/plus_alt_12x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/plus_alt_12x12.png",
+      "initialSize" : 202,
+      "fileType" : 8192
+    },
     "\/public\/assets\/icons\/lock_stroke_9x12.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -9559,6 +9537,28 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/lock_stroke_9x12.png",
       "initialSize" : 245,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/fork_28x32.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/fork_28x32.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/fork_28x32.png",
+      "initialSize" : 314,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/move_alt2_24x24.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt2_24x24.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_alt2_24x24.png",
+      "initialSize" : 342,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/right_quote_16x12.png" : {
@@ -9594,17 +9594,6 @@
       "initialSize" : 349,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/star_12x12.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/star_12x12.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/star_12x12.png",
-      "initialSize" : 222,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/link_8x8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -9614,17 +9603,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/link_8x8.png",
       "initialSize" : 188,
-      "fileType" : 8192
-    },
-    "\/public\/assets\/icons\/volume_8x6.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/volume_8x6.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/volume_8x6.png",
-      "initialSize" : 141,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/battery_full_8x4.png" : {
@@ -9647,6 +9625,28 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/move_vertical_alt2_16x16.png",
       "initialSize" : 219,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/star_12x12.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/star_12x12.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/star_12x12.png",
+      "initialSize" : 222,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/volume_8x6.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/volume_8x6.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/volume_8x6.png",
+      "initialSize" : 141,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/move_24x24.png" : {
@@ -9704,17 +9704,6 @@
       "initialSize" : 169,
       "fileType" : 8192
     },
-    "\/public\/assets\/icons\/lock_fill_6x8.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/assets\/icons\/lock_fill_6x8.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/public\/assets\/icons\/lock_fill_6x8.png",
-      "initialSize" : 161,
-      "fileType" : 8192
-    },
     "\/public\/assets\/icons\/chart_alt_30x32.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -9735,6 +9724,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/public\/assets\/icons\/arrow_left_12x12.png",
       "initialSize" : 175,
+      "fileType" : 8192
+    },
+    "\/public\/assets\/icons\/lock_fill_6x8.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/assets\/icons\/lock_fill_6x8.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/public\/assets\/icons\/lock_fill_6x8.png",
+      "initialSize" : 161,
       "fileType" : 8192
     },
     "\/public\/assets\/icons\/key_fill_24x24.png" : {
