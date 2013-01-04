@@ -1,2 +1,2 @@
-require './familyonelist'
+require './onelistapp'
 run Sinatra::Application
