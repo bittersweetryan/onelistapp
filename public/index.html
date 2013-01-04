@@ -44,55 +44,16 @@
         </div>
 
         <div id="cards" class="row">
-            <!--
-            <div class="card blue">
-                <div id="innerContainer">
-                    <div class="front">
-                        Ryan
-                    </div>
-                    <div class="back list">
-                        <div class="newList">
-                            <a class="radius button plus" href="#" id="newItem"></a>
-                        </div>
-                        <ul>
-                            <li>
-                                <input type="text" name="listitem" >
-                            </li>
-                            <li>
-                                Apple Stuff
-                            </li>
-                            <li>
-                                iTunes Gift Cards
-                            </li>
-                            <li>
-                                Thunderbolt Monitor
-                            </li>
-                            <li>
-                                White Shoes
-                            </li>
-                            <li>
-                                GPS For Mountain Bike
-                            </li>
-                            <li>
-                                Last Item
-                            </li>
-                        </ul>
-                        <div class="down">
-                            <a class="downArrow" href="#"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        -->
     </div>
 
     <!-- Included JS Files (Compressed) -->
     <script data-main="js/config" src="js/vendor/require.js"></script>
 
+    <!-- templates -->
     <script type="text/template" id="cardViewTemplate">
         <div class="card">
             <div id="innerContainer">
+                <div class="close">X</div>
                 <div class="front" data-id="name">
                     <input type="text" name="name" placeholder="Who's list?">
                 </div>

@@ -21,13 +21,13 @@ h1 {
 }
 
 .plus {
-  background-image: url("../assets/icons/plus_12x12.png");
+  background-image: url("../assets/icons/white/plus_12x12.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 .downArrow {
-  background-image: url("../assets/icons/plus_12x12.png");
+  background-image: url("../assets/icons/white/plus_12x12.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -113,6 +113,22 @@ h1 {
   border-radius: 6px;
   border: none;
 }
+.card .back .purchased {
+  text-decoration: line-through;
+}
+.card .close {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 0px;
+  right: 300px;
+  margin: 10px 10px 0 0;
+  font-size: 30px;
+  font-weight: bolder;
+  color: rgba(0, 0, 0, 0.6);
+  text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+  text-align: center;
+}
 
 .list {
   overflow: scroll;
@@ -161,4 +177,16 @@ input.red, input:focus.red {
 
 .red {
   background-color: #f23434;
+}
+
+::-webkit-input-placeholder {
+  color: #646464;
+}
+
+:-moz-placeholder {
+  color: #646464;
+}
+
+:-ms-input-placeholder {
+  color: #646464;
 }

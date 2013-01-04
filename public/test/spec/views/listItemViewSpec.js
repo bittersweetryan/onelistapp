@@ -31,6 +31,11 @@ define(
 
 				expect( listItemView ).to.respondTo( 'swapInput' );
 			} );
+
+			it( 'should resond to toggle purchase', function(){
+
+				expect( listItemView ).to.respondTo( 'togglePurchase' );
+			});
 		} );
 	}
 );

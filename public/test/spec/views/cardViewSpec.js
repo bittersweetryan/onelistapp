@@ -31,7 +31,15 @@ define(
 			it( 'should respond to showList', function(){
 				expect( cardView ).to.respondTo( 'showList' );
 			} );
-			
+
+			it( 'should resond to change name', function(){
+				expect( cardView ).to.respondTo( 'changeName' );
+			});
+
+			it( 'should respond to close card', function(){
+				expect( cardView ).to.respondTo( 'closeCard' );
+			});
+
 		} );
 
 		return ;

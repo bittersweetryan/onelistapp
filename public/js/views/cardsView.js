@@ -29,10 +29,11 @@ define(
 
 			colorIndex : 0,
 
-			addCard : function(  ){
+			addCard : function( card ){
+
 				var cardView = new f1l.views.CardView(  );
 
-				cardView.render( f1l.collections.cards.pop(), this.getColor() );
+				cardView.render( card, this.getColor() );
 
 				this.$el.append( cardView.$el );
 

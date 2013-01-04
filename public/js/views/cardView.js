@@ -14,6 +14,8 @@ define(
 
             model : new Card(),
 
+            modal : $("#confirmCardClose"),
+
             color : null,
 
             listView : null,
@@ -22,7 +24,9 @@ define(
                 'click input[name="name"]' : 'stopScroll',
                 'keypress input[name="name"]' : 'setName',
                 'click' : 'showList',
-                'click [data-id="name"]>span' : 'stopScroll'
+                'click [data-id="name"]>span' : 'stopScroll',
+                'dblclick [data-id="name"]>span' : 'changeName',
+                'click .close' : 'closeCard'
             },
 
             initialize : function(){
@@ -105,6 +109,19 @@ define(
                 this.stopScroll( e );
 
                 this.card.get('items').add( );
+            },
+
+            changeName : function( e ){
+                var $input = $( this.template() ).find( 'input' ),
+                    $name = this.$el.find( '[data-id="name"]>span' );
+
+                $input.val( $name.text( ) );
+
+                $name.replaceWith( $input );
+            },
+
+            closeCard: function( e ){
+                this.stopScroll( e );
             }
         });
 

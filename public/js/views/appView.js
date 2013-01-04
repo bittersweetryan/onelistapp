@@ -19,9 +19,7 @@ define(
 			},
 
 			addList : function(){
-				f1l.collections.cards.add( {
-					name : 'Ayden'
-				} );
+				f1l.collections.cards.add( );
 			}
 
 		} );

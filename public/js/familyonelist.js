@@ -24,7 +24,6 @@ function( $, _, Backbone, Modernizr ) {
     },
 
     setupFoundation : function(){
-
       var $doc = $(document);
 
       $(document).ready(function() {

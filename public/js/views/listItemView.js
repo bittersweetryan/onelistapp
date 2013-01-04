@@ -12,7 +12,9 @@ define(
 
 			events : {
 				'click input' : 'stopScroll',
-				'keyup input' : 'saveItem'
+				'keyup input' : 'saveItem',
+				'click li' : 'stopScroll',
+				'dblclick' : 'togglePurchase'
 			},
 
 			initialize : function(  ){
@@ -51,8 +53,33 @@ define(
 
 				//if name is a string it was triggered by saveItem
 				if( typeof name === 'string' ){
-					this.$el.find( 'input' ).replaceWith( name );
+					this.$el.find( 'input' ).replaceWith( '<span>' + name + '</span>' );
 				}
+				else if( typeof name === 'object' ){
+					var $input = $( this.template() ).find( 'input' );
+
+					$input.val( this.$el.find( 'span' ).html( ) );
+
+					this.$el.find( 'span' ).replaceWith( $input );
+				}
+			},
+
+			togglePurchase : function( e ){
+
+				var $span = this.$el.find( 'span' );
+				
+				if( $span.length && $span.hasClass( 'purchased' ) ){
+
+					$span.removeClass( 'purchased' );
+					this.model.set( 'purchased', false );
+				}
+				else{
+
+					$span.addClass( 'purchased' );
+					this.model.set( 'purchased', true );
+				}
+
+				console.log(this.model.get('purchased'));
 			}
 
 		} );
