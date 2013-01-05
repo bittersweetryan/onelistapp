@@ -16,6 +16,8 @@ $redDark: darken($red, 20%);
 $darkGrey: rgb(100,100,100);
 $square : 300px;
 
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 body{
 	background-image: url('../assets/creampaper.png');
 }
@@ -72,6 +74,7 @@ h1{
 
 .right{
   @include transition-left( 1s );
+
   left: 0px;
 }
 
@@ -79,6 +82,25 @@ h1{
   @include transition-left( 1s );
 
   left: -300px;
+}
+
+h1.title{
+	float: left;
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+	width: 400px;
+
+	.blue{
+		color: $blue;
+	}
+
+	.yellow{
+		color: $yellow;
+	}
+
+	.red{
+		color: $red;
+	}
 }
 
 .card{
@@ -94,6 +116,25 @@ h1{
 	overflow: hidden;
 	cursor: pointer;
 
+	&.blue{
+		background-color : $blue;
+	}
+
+	&.green{
+		background-color: $green;
+	}
+
+	&.yellow{
+		background-color: $yellow;
+	}
+
+	&.orange{
+		background-color: $orange;
+	}
+
+	&.red{
+		background-color: $red;
+	}
 
 	.front,.back{
 		width: $square;
@@ -187,26 +228,6 @@ input, input:focus{
 	color: $redDark;
 	background-color: $redLight;
   }
-}
-
-.blue{
-	background-color : $blue;
-}
-
-.green{
-	background-color: $green;
-}
-
-.yellow{
-	background-color: $yellow;
-}
-
-.orange{
-	background-color: $orange;
-}
-
-.red{
-	background-color: $red;
 }
 
 ::-webkit-input-placeholder {

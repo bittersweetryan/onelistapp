@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 body {
   background-image: url("../assets/creampaper.png");
 }
@@ -66,6 +67,22 @@ h1 {
   left: -300px;
 }
 
+h1.title {
+  float: left;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  width: 400px;
+}
+h1.title .blue {
+  color: #03a688;
+}
+h1.title .yellow {
+  color: #f2ac29;
+}
+h1.title .red {
+  color: #f23434;
+}
+
 .card {
   border-radius: 6px;
   width: 300px;
@@ -77,6 +94,21 @@ h1 {
   box-shadow: 4px 4px 10px 0px rgba(22, 22, 22, 0.4);
   overflow: hidden;
   cursor: pointer;
+}
+.card.blue {
+  background-color: #03a688;
+}
+.card.green {
+  background-color: #c9d94e;
+}
+.card.yellow {
+  background-color: #f2ac29;
+}
+.card.orange {
+  background-color: #f2762e;
+}
+.card.red {
+  background-color: #f23434;
 }
 .card .front, .card .back {
   width: 300px;
@@ -157,26 +189,6 @@ input.orange, input:focus.orange {
 input.red, input:focus.red {
   color: #b40c0c;
   background-color: #f89494;
-}
-
-.blue {
-  background-color: #03a688;
-}
-
-.green {
-  background-color: #c9d94e;
-}
-
-.yellow {
-  background-color: #f2ac29;
-}
-
-.orange {
-  background-color: #f2762e;
-}
-
-.red {
-  background-color: #f23434;
 }
 
 ::-webkit-input-placeholder {
